@@ -8,3 +8,7 @@ Once devfee mining is triggered it will mine to your address instead of develope
 You can download it here : https://github.com/d3z00r/claymore10.3nofee/releases 
 
 Direct download link: https://github.com/d3z00r/claymore10.3nofee/releases/download/v10.3/Claymore.s.Dual.Ethereum.Decred_Siacoin_Lbry_Pascal.AMD.NVIDIA.GPU.Miner.v10.3.rar
+
+
+Tips
+ETH : 0xAdB754C550Db3082d95f7C844932a502a49Cf39c
