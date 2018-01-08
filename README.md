@@ -1,4 +1,4 @@
-# Claymore 10.3 nofee
+# Claymore 10.3 no fee
 This is a Claymore v10.3 Ethereum/DCR dual miner with dev fee removed.
 
 Executable is patched so you don't have to do anything, just start mining.
